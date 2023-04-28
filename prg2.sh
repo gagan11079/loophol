@@ -6,3 +6,4 @@ echo "The given value is $x"
 read -sp "Enter password:" pass
 echo -e "\nThe given password is: $pass"
 #End of the script
+this is my program
