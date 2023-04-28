@@ -15,3 +15,4 @@ echo "The integer division is $res"
 res=`expr $num1 % $num2`
 echo "The modulus(the remainer obtained in the integer division) is $res"
 #End of arithmetic operations
+this is ready
